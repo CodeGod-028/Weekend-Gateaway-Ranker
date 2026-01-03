@@ -1,0 +1,15 @@
+place,source_city,distance_km,rating,popularity
+Darjeeling,Kolkata,610,4.6,90
+Digha,Kolkata,185,4.1,70
+Mandarmani,Kolkata,180,4.2,75
+Puri,Kolkata,500,4.5,85
+Delhi,Delhi,0,4.3,95
+Jaipur,Delhi,280,4.4,88
+Agra,Delhi,230,4.2,80
+Rishikesh,Delhi,240,4.6,90
+Manali,Delhi,540,4.7,92
+Coorg,Bangalore,250,4.6,89
+Mysore,Bangalore,145,4.3,85
+Chikmagalur,Bangalore,245,4.5,87
+Ooty,Bangalore,270,4.4,86
+Goa,Bangalore,560,4.8,95
